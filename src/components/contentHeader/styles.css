@@ -1,0 +1,165 @@
+.div1 {
+  height: 730px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(240, 231, 231);
+  color: white;
+  border-bottom: 8px solid #222;
+  background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/8ee18735-ada3-45be-b383-a94701054bb9/0c61fb9a-2dc0-44d5-a207-240a00f5f39c/BR-pt-20220613-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+  background-size: 100% 150%;
+}
+.div-header {
+  display: flex;
+  position: absolute;
+  justify-content:space-between;
+  padding: 2rem;
+  height:38px;
+  width: 70%;
+
+ 
+}
+.button-and-lang{
+    display: flex;
+    gap: 3rem;
+}
+.lang {
+  width: 110px;
+  height: 35px;
+  border: 1px solid white;
+  color: white;
+  font-size: 0.875rem;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.enter-button {
+  background: #f40612;
+  width: 80px;
+  height: 35px;
+  border: 0;
+  border-radius: 5px;
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text {
+  justify-content: center;
+}
+.title {
+  font-size: 4rem;
+}
+.label {
+  font-size: 1.625rem;
+  font-weight: 400;
+}
+.p {
+    display: flex;
+    justify-content: center;
+  font-size: 1.2rem;
+}
+.input-and-button {
+  display: flex;
+  justify-content: center;
+  gap: 0.05rem;
+}
+
+input {
+  height: 60px;
+  width: 500px;
+  font-size: 1rem;
+  padding-left: 1rem;
+}
+.button-go {
+  height: 66px;
+  width: 200px;
+  border: 0;
+  color: white;
+  background: #f40612;
+  font-size: 1.85rem;
+}
+.tv {
+  height: 500px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  background: black;
+  color: white;
+  border-bottom: 8px solid #222;
+}
+.title2 {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+  font-size: 3.125rem;
+}
+.download {
+  gap: 1rem;
+  display: flex;
+  border-radius: 12px;
+  padding: 0.7rem;
+  width: 230px;
+  border: 2px solid rgb(46, 46, 46);
+}
+.p-download {
+  font-weight: 600;
+}
+.kids {
+  height: 500px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  background: black;
+  color: white;
+  border-bottom: 8px solid #222;
+}
+.kids-content {
+  display: flex;
+  gap: 3rem;
+}
+.questions {
+    height: 900px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    background: black;
+    color: white;
+    border-bottom: 8px solid #222;
+}
+.content-questions{
+    width: 770px;
+    height: 70px;
+    background: #303030;
+    font-size: 30px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    border: 4px solid black;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    justify-content: space-between;
+}
+.plus{
+    font-size: 50px;
+    font-weight: 100;
+}
+.p-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 2rem;
+}
