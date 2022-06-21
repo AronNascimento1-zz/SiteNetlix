@@ -3,7 +3,7 @@
   (Site Netlix)
     </h1>
     
-![](https://github.com/AronNascimento1/SiteNetlix/blob/main/public/assets/netflix.gif))
+![](https://github.com/AronNascimento1/SiteNetlix/blob/main/public/assets/netflix.gif)
 
 
 
